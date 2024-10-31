@@ -5,7 +5,7 @@ I am here with a clone site that captures the design lines of Starlink 2023 webs
 <h2> The following technologies were used in the frontend development phase of my site: </h2>
 
 - HTML5
-- SCSS
+- CSS
 
 <h2> Visit My Starlink Clone Website: </h2>
 
